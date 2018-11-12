@@ -1,3 +1,4 @@
+#忽略一下文件
 .idea
 .pytest_cache
 report
